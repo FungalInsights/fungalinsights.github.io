@@ -122,7 +122,7 @@ def generate_html_structure(subtabs):
     html = []
     
     # Banner
-    html.append('<div class="nm-banner-container"><img src="img/banner-NM.png" alt="Neo Mycologist Banner" class="nm-banner"></div>')
+    html.append('<div class="nm-banner-container"><img src="img/banner-NM2.png" alt="Neo Mycologist Banner" class="nm-banner"></div>')
      
     html.append('<div class="nm-container">')
     
