@@ -323,6 +323,11 @@ def main():
     height: auto;
     display: inline-block;
 }
+
+.nm-footer p {
+    color: #000;
+    margin-top: 10px;
+}
 """
     with open('css/neomycologist.css', 'w') as f:
         f.write(css_output)
